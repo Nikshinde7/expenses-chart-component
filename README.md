@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/expenses-chart-component-in-reactjs-with-flexbox-and-grid-A9Q1WcvzqG)
-- Live Site URL: [Add live site URL here](https://expenses-chart-component-7hge8hopa-nikshinde7.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/expenses-chart-component-in-reactjs-with-flexbox-and-grid-A9Q1WcvzqG)
+- Live Site URL: [Live site URL](https://expenses-chart-component-7hge8hopa-nikshinde7.vercel.app/)
 
 ### Built with
 
